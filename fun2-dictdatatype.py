@@ -18,7 +18,7 @@ print(kamus_id_en['bapak'])
 print('\nData ini dikirimkan oleh server gojek, untuk informasi driver disekitar pemakai aplikasi')
 data_dari_server_gojek = {
     'tanggal': '17-10-2020',
-    'driver_list': [{'nama':'ujang', 'jarak': 13}, {'nama':'oleh','jarak': 5}, {'nama':'atep','jarak':'22'}, {'nama':'tisna','jarak':'14'}]
+    'driver_list': [{'nama':'ujang', 'jarak': 13}, {'nama':'mang oleh','jarak': 5}, {'nama':'atep','jarak':'22'}, {'nama':'tisna','jarak':'14'}]
 }
 
 print(data_dari_server_gojek)
